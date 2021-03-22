@@ -1,1 +1,9 @@
 Add smt new
+If we have a conflig 
+1. git pull
+2. git checkout <curr branch>
+3.git merge main
+4. git status
+5. git add <confligfile> //change conflig file
+6. git commit 
+7. git push origin <curr branch>
